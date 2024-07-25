@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/7a8caaaa-338a-432c-8b52-4effce510e59" alt="GoldChain"/>
+
 # Project Proposal: Decentralized Autonomous Organization (DAO) - "GoldChain"
 
 ## Overview
